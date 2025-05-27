@@ -1,7 +1,7 @@
 # Networking Fundamentals
 
 ## OSI Model
-
+The OSI ("Open Systems Interconnection") model represents an easy and intuitive way to standardize the different parts required to communicate across networks.
 | Layer       | Description |
 |-------------|-------------|
 | Layer 7     | Application (includes API, HTTP, etc.) |
