@@ -3,9 +3,9 @@
 ## OSI Model
 The OSI ("Open Systems Interconnection") model represents an easy and intuitive way to standardize the different parts required to communicate across networks.
 | Layer       | Description |
-|-------------|-------------|
-| Layer 7     | Application (includes API, HTTP, etc.) Where humans process data and information |
-| Layer 6     | Presentation |
+|-------------|-------------|-------------|
+| Layer 7     | Application (includes API, HTTP, etc.) | Where humans process data and information |
+| Layer 6     | Presentation | Ensures data is in a usable format
 | Layer 5     | Session |
 | Layer 4     | Transport (TCP/UDP) |
 | Layer 3     | Network (Routing) |
