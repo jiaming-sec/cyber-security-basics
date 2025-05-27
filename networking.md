@@ -6,7 +6,7 @@ The OSI ("Open Systems Interconnection") model represents an easy and intuitive 
 |-------------|-------------|
 | Layer 7     | Application (includes API, HTTP, etc.) - Where humans process data and information |
 | Layer 6     | Presentation - Ensures data is in a usable format |
-| Layer 5     | Session |
+| Layer 5     | Session - Capable of maintaining connections|
 | Layer 4     | Transport (TCP/UDP) |
 | Layer 3     | Network (Routing) |
 | Layer 2     | Data Link (Error checking, frame synchronization) |
