@@ -8,7 +8,7 @@ The OSI ("Open Systems Interconnection") model represents an easy and intuitive 
 | Layer 6     | Presentation - Ensures data is in a usable format |
 | Layer 5     | Session - Capable of maintaining connections|
 | Layer 4     | Transport (TCP/UDP) - Data is forwarded to a service capable of handling requests |
-| Layer 3     | Network (Routing) |
+| Layer 3     | Network (Routing) - 	Responsible for which path packets should travel on a network|
 | Layer 2     | Data Link (Error checking, frame synchronization) |
 | Layer 1     | Physical (Bits over fibre) |
 
