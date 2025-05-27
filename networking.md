@@ -14,6 +14,18 @@ The OSI ("Open Systems Interconnection") model represents an easy and intuitive 
 
 Layer 4, the Transport layer, connects the software with the hardware layers.
 
+Layer 7 - Application Layer
+The business logic and functionality of the application lies here. This is what the users use to interact with services across a network. 
+
+Most of the applications you use are on the Application Layer, with the complexity of the other layers hidden.
+
+Examples of Layer 7 Applications:
+
+HTTP ("Hypertext Transfer Protocol") - Enables us to access web applications
+FTP ("File Transfer Protocol") - Allows users to transfer files
+SNMP ("Simple Network Management Protocol") - Protocol to read and update network device configurations
+There are many applications which uses these protocols like Google Chrome, Microsoft Skype and FileZilla.
+
 ---
 
 ## Firewalls
