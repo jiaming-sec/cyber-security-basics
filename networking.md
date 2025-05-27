@@ -12,6 +12,7 @@ The OSI ("Open Systems Interconnection") model represents an easy and intuitive 
 | Layer 2     | Data Link (Error checking, frame synchronization) - Responsible for which physical devices packets should go to |
 | Layer 1     | Physical (Bits over fibre) - 	The physical infrastructure to transport data |
 
+Layer 4, the Transport layer, connects the software with the hardware layers.
 ---
 
 ## Firewalls
