@@ -21,9 +21,9 @@ Most of the applications you use are on the Application Layer, with the complexi
 
 Examples of Layer 7 Applications:
 
--HTTP ("Hypertext Transfer Protocol") - Enables us to access web applications
--FTP ("File Transfer Protocol") - Allows users to transfer files
--SNMP ("Simple Network Management Protocol") - Protocol to read and update network device configurations
+- HTTP ("Hypertext Transfer Protocol") - Enables us to access web applications
+- FTP ("File Transfer Protocol") - Allows users to transfer files
+- SNMP ("Simple Network Management Protocol") - Protocol to read and update network device configurations
 There are many applications which uses these protocols like Google Chrome, Microsoft Skype and FileZilla.
 
 ---
