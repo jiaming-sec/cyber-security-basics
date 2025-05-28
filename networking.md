@@ -31,6 +31,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 ## Firewalls
 
 - Rules to prevent incoming and outgoing connections.
+A firewall is a network security device that acts as a barrier between a trusted internal network and an untrusted external network, such as the internet. It monitors and controls network traffic, blocking or allowing data packets based on a set of security rules.
 
 ## NAT
 
