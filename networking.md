@@ -35,7 +35,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 
 ## NAT
 
-- Useful to understand IPv4 vs IPv6.(A NAT (Network Address Translation device, typically a router or firewall, translates these private IP addresses into a public IP address (assigned by the ISP) when sending data to the internet. )
+- Useful to understand IPv4 vs IPv6.(A NAT (Network Address Translation) device, typically a router or firewall, translates these private IP addresses into a public IP address (assigned by the ISP) when sending data to the internet. )
 
 ---
 
