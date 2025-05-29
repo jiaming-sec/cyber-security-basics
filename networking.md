@@ -40,7 +40,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 ---
 
 ## DNS (Port 53)
-
+(From client -> Recursive DNS resolver -> DNS Root Nameserver -> DNS TLD nameserver -> Authoritative Server)
 - Requests are usually UDP unless redirected to TCP.
 - DNS cache lookup happens first.
 - DNS exfiltration: sending data as subdomains (e.g., `26856485f6476a567567c6576e678.badguy.com`).
