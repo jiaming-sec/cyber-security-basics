@@ -54,7 +54,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - Doesn’t show up in http logs.
 ### DNS Configs
 
-- **SOA** – Start of Authority ( Indicates the authoritative DNS server for a domain or subdomain and provides administrative details like the domain's administrator email, serial number, and time-to-live (TTL) settings. ) 
+- **SOA** – Start of Authority (Indicates the authoritative DNS server for a domain or subdomain and provides administrative details like the domain's administrator email, serial number, and time-to-live (TTL) settings.) 
 - **A / AAAA** – IP addresses  
 - **MX** – Mail Exchangers  
 - **NS** – Name Servers  
