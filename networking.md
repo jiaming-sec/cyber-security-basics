@@ -65,9 +65,9 @@ There are many applications which uses these protocols like Google Chrome, Micro
 
 ## ARP
 (Address Resolution Protocol)
-- Maps MAC addresses to IP addresses.(ARP is a communication protocol used to map IP addresses (logical addresses) to MAC addresses (physical addresses) on a local network. ) 
--Like: "Hey network, who has 192.168.1.10?"
--- Device with that IP responds: "Me! My MAC is XX:XX:XX:XX."
+- Maps MAC addresses to IP addresses.(ARP is a communication protocol used to map IP addresses (logical addresses) to MAC addresses (physical addresses) on a local network. )
+- Like: "Hey network, who has 192.168.1.10?"
+--  Device with that IP responds: "Me! My MAC is XX:XX:XX:XX."
 ---
 
 ## DHCP (UDP 67 - Server, 68 - Client)
