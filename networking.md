@@ -75,6 +75,10 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - DHCP gives devices IP addresses automatically.
 - Dynamic IP address allocation.
 - Process: `DHCPDISCOVER → DHCPOFFER → DHCPREQUEST → DHCPACK`.
+- DHCPDISCOVER – Device shouts: "Anyone give me an IP?"
+- DHCPOFFER – Server replies: "Here’s one."
+- DHCPREQUEST – Device says: "I’ll take it."
+- DHCPACK – Server confirms.
 
 ---
 
