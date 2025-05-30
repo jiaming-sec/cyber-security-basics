@@ -58,8 +58,8 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - **A / AAAA** – IP addresses (A (Address): Maps a domain name to a IPv4 address. / AAAA (Quad-A): Maps a domain name to an IPv6 address. )
 - **MX** – Mail Exchangers ( Specifies the mail servers responsible for receiving email for a domain. )
 - **NS** – Name Servers (Identifies the DNS servers that are authorized to provide information about the domain. ) 
-- **PTR** – Reverse DNS  
-- **CNAME** – Aliases  
+- **PTR** – Reverse DNS  (Maps an IP address back to its domain name, used for reverse lookups. )
+- **CNAME** – Aliases  (the primary or preferred domain name for a particular web server or set of resources)
 
 ---
 
