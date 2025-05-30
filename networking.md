@@ -84,7 +84,8 @@ There are many applications which uses these protocols like Google Chrome, Micro
 
 ## Multiplexing
 
-- Timeshare, statistical sharing – useful to understand.
+- Multiplexing is sharing one line for multiple data streams.
+- Example: 1 cable carries multiple Zoom calls or streams （allows better bandwidth use）
 
 ---
 
