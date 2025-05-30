@@ -52,6 +52,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - Sending data as subdomains.
 - 26856485f6476a567567c6576e678.badguy.com
 - Doesn’t show up in http logs.
+  
 ### DNS Configs
 
 - **SOA** – Start of Authority (Indicates the authoritative DNS server for a domain or subdomain and provides administrative details like the domain's administrator email, serial number, and time-to-live (TTL) settings.) 
@@ -71,7 +72,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 ---
 
 ## DHCP (UDP 67 - Server, 68 - Client)
-
+（Dynamic Host Configuration Protocol）
 - Dynamic IP address allocation.
 - Process: `DHCPDISCOVER → DHCPOFFER → DHCPREQUEST → DHCPACK`.
 
