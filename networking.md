@@ -39,7 +39,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 
 ---
 
-## DNS (Port 53)
+## DNS (Port 53) - Domain Name System
 (From client -> Recursive DNS resolver -> DNS Root Nameserver -> DNS TLD nameserver -> Authoritative Server)
 - Requests are usually UDP unless redirected to TCP.
 - DNS cache lookup happens first.
@@ -72,7 +72,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 ---
 
 ## DHCP (UDP 67 - Server, 68 - Client)
-（Dynamic Host Configuration Protocol）
+（Dynamic Host Configuration Protocol）- DHCP gives devices IP addresses automatically.
 - Dynamic IP address allocation.
 - Process: `DHCPDISCOVER → DHCPOFFER → DHCPREQUEST → DHCPACK`.
 
