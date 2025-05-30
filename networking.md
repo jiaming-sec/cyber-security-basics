@@ -55,7 +55,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 ### DNS Configs
 
 - **SOA** – Start of Authority (Indicates the authoritative DNS server for a domain or subdomain and provides administrative details like the domain's administrator email, serial number, and time-to-live (TTL) settings.) 
-- **A / AAAA** – IP addresses  
+- **A / AAAA** – IP addresses (A (Address): Maps a domain name to a IPv4 address. / AAAA (Quad-A): Maps a domain name to an IPv6 address. )
 - **MX** – Mail Exchangers  
 - **NS** – Name Servers  
 - **PTR** – Reverse DNS  
