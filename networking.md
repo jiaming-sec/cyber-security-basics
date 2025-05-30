@@ -47,6 +47,11 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - Reverse DNS Lookup (PTR): e.g., `2.152.80.208.in-addr.arpa → 208.80.152.2`.
 - DNS sinkholes to detect/block malicious domains.
 
+## DNS exfiltration
+
+- Sending data as subdomains.
+- 26856485f6476a567567c6576e678.badguy.com
+- Doesn’t show up in http logs.
 ### DNS Configs
 
 - **SOA** – Start of Authority  
