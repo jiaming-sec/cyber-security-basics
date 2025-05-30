@@ -48,7 +48,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - DNS sinkholes to detect/block malicious domains.
 
 ## DNS exfiltration
-
+(a technique used by attackers to steal data from a network by embedding it within DNS queries.)
 - Sending data as subdomains.
 - 26856485f6476a567567c6576e678.badguy.com
 - Doesn’t show up in http logs.
