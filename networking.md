@@ -95,7 +95,6 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - TTL (Time-to-Live) / hop-limit:  
   - Windows: 128  
   - Linux/Unix: 64
-  - ICMP Echo Requests (ping-style),
   - Uses:
   - ICMP Echo Requests (ping-style)
   - UDP/TCP with increasing TTL (Time to Live).
