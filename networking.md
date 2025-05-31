@@ -94,8 +94,12 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - Uses UDP, ICMP Echo Request, or TCP SYN.
 - TTL (Time-to-Live) / hop-limit:  
   - Windows: 128  
-  - Linux/Unix: 64  
-- Destination returns ICMP Echo Reply.
+  - Linux/Unix: 64
+  - ICMP Echo Requests (ping-style),
+  - Uses:
+  - ICMP Echo Requests (ping-style)
+  - UDP/TCP with increasing TTL (Time to Live).
+Useful for network troubleshooting and latency checks
 
 ---
 
