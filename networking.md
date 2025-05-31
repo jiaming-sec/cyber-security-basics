@@ -105,7 +105,15 @@ Useful for network troubleshooting and latency checks
 ## Nmap
 
 - Network scanning tool.
-
+- What devices are on a network (e.g., IPs, MACs),
+- Which ports are open,
+- What services or OS versions are running.
+  
+Example use cases
+- Find vulnerable hosts (e.g., open SSH without patching).
+- Detect unauthorized devices on a corporate network.
+- Run stealth scans to avoid detection (e.g., nmap -sS).
+- 
 ---
 
 ## Intercepts (Person-in-the-Middle)
