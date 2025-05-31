@@ -113,7 +113,6 @@ Example use cases
 - Find vulnerable hosts (e.g., open SSH without patching).
 - Detect unauthorized devices on a corporate network.
 - Run stealth scans to avoid detection (e.g., nmap -sS).
-- 
 ---
 
 ## Intercepts (Person-in-the-Middle)
