@@ -90,7 +90,7 @@ There are many applications which uses these protocols like Google Chrome, Micro
 ---
 
 ## Traceroute
-
+(a network diagnostic tool that displays the path packets take when traveling from a source to a destination across an IP network)
 - Uses UDP, ICMP Echo Request, or TCP SYN.
 - TTL (Time-to-Live) / hop-limit:  
   - Windows: 128  
