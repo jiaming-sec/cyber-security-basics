@@ -116,8 +116,12 @@ Example use cases
 ---
 
 ## Intercepts (Person-in-the-Middle)
-
-- Understand Public Key Infrastructure (PKI).
+MITM attack is when someone secretly sits between two parties communicating, like intercepting messages between your computer and a website.
+- A rogue Wi-Fi hotspot at a coffee shop fakes being “FreeCafeWiFi” and reads your traffic.
+- PKI (Public Key Infrastructure): Ensures secure encryption and digital identity verification.
+- Certificate Authority (CA): Trusted org that issues certificates (e.g., DigiCert).
+- Private/Public Key Pairs: For asymmetric encryption.
+- Digital Signatures: Ensure authenticity.
 
 ---
 
