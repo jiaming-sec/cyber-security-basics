@@ -141,7 +141,8 @@ Tor anonymizes your traffic by routing it through multiple volunteer-run nodes.
 
 ## Proxy
 A proxy acts as a middleman between you and the internet.
-- Why using "7 proxies" won't help hide you completely.
+- Can cache content, filter traffic, or hide your IP.
+- E.g., You → Proxy → Google (Google sees the proxy’s IP).
 
 ---
 
