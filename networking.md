@@ -126,9 +126,9 @@ MITM attack is when someone secretly sits between two parties communicating, lik
 ---
 
 ## VPN
-
-- Hides traffic from ISP.
-- Traffic is exposed to VPN provider.
+A VPN creates an encrypted tunnel between your device and a VPN server.
+- ISP sees encrypted gibberish; it can’t tell what websites you visit.
+- VPN provider can see your traffic — so you need to trust your VPN.
 
 ---
 
