@@ -140,7 +140,7 @@ Tor anonymizes your traffic by routing it through multiple volunteer-run nodes.
 ---
 
 ## Proxy
-A proxy acts as a middleman between you and the internet.
+A proxy acts as a middleman between you and the internet.(When you use a forward proxy server, the server is not aware of the actual client and thinks the proxy is the client)
 - Can cache content, filter traffic, or hide your IP.
 - E.g., You → Proxy → Google (Google sees the proxy’s IP).
 
