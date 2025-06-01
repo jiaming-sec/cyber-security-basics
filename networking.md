@@ -133,14 +133,14 @@ A VPN creates an encrypted tunnel between your device and a VPN server.
 ---
 
 ## Tor (The Onion Router)
-
+Tor anonymizes your traffic by routing it through multiple volunteer-run nodes.
 - Easily detectable on a network.
 - Law enforcement may use traffic correlation to identify users.
 
 ---
 
 ## Proxy
-
+A proxy acts as a middleman between you and the internet.
 - Why using "7 proxies" won't help hide you completely.
 
 ---
