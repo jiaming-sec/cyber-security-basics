@@ -157,3 +157,7 @@ a critical routing protocol that facilitates communication between different net
 - **Wireshark**  - Graphical tool for analyzing packets (e.g., DNS, HTTP, TCP handshakes).
 - **Tcpdump**  - Command-line version of Wireshark. Fast for automation/scripting.
 - **Burp Suite** - 	Web security testing tool. Can intercept, modify, and replay HTTP/S requests. Used in AppSec.
+
+---
+
+## HTTP/S
