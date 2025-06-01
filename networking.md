@@ -33,9 +33,9 @@ There are many applications which uses these protocols like Google Chrome, Micro
 - Rules to prevent incoming and outgoing connections.
 (A firewall is a network security device that acts as a barrier between a trusted internal network and an untrusted external network, such as the internet. It monitors and controls network traffic, blocking or allowing data packets based on a set of security rules.)
 
-## NAT
+## NAT (Network Address Translation)
 
-- Useful to understand IPv4 vs IPv6.(A NAT (Network Address Translation) device, typically a router or firewall, translates these private IP addresses into a public IP address (assigned by the ISP) when sending data to the internet. )
+- Useful to understand IPv4 vs IPv6.(A NAT device, typically a router or firewall, translates these private IP addresses into a public IP address (assigned by the ISP) when sending data to the internet. )
 
 ---
 
