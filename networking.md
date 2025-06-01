@@ -147,7 +147,7 @@ A proxy acts as a middleman between you and the internet.(When you use a forward
 ---
 
 ## BGP (Border Gateway Protocol)
-
+a critical routing protocol that facilitates communication between different network systems on the internet. BGP is the postal system of the internet. It ensures that data packets can find the most efficient path to their destination across interconnected networks.
 - The protocol that keeps the internet routing together.
 
 ---
