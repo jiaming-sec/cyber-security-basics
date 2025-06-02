@@ -184,3 +184,4 @@ Used for network diagnostics (not data transfer).
 - POP3 ((Post Office Protocol version 3)(110, 995) Downloads and removes mail from server.
 
 ## SSH (Secure Shell Protocol)(Port 22)
+- Secure shell for remote access. Uses asymmetric key exchange to create a symmetric encrypted session.
