@@ -187,6 +187,6 @@ Used for network diagnostics (not data transfer).
 - Secure shell for remote access. Uses asymmetric key exchange to create a symmetric encrypted session.
 
 ## DHCP IPv4: (67, 68) IPv6: (546, 547)
-Dynamic (leases IP address, not persistent).
-Automatic (leases IP address and remembers MAC and IP pairing in a table).
-Manual (static IP set by administrator).
+- Dynamic (leases IP address, not persistent).
+- Automatic (leases IP address and remembers MAC and IP pairing in a table).
+- Manual (static IP set by administrator).
