@@ -207,13 +207,15 @@ Used for network diagnostics (not data transfer).
 - Expected Size?
 
 ## HTTP Response Header
+![image](https://github.com/user-attachments/assets/50c24839-d8c7-4bdb-8cfe-18780b9e2a5d)
+
 - HTTP version
 - Status Codes:
-- 1xx: Informational Response
-- 2xx: Successful
-- 3xx: Redirection
-- 4xx: Client Error
-- 5xx: Server Error
+-- 1xx: Informational Response
+-- 2xx: Successful
+-- 3xx: Redirection
+-- 4xx: Client Error
+-- 5xx: Server Error
 - Type of data in response
 - Type of encoding
 - Language
