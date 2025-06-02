@@ -170,6 +170,5 @@ TLS Handshake Overview (before HTTP starts)
 - **Certificate Validation**: Browser checks that certificate is signed by a trusted CA (Certificate Authority).
 - **Key Exchange**: Browser and server securely agree on a shared symmetric key using asymmetric crypto (e.g., RSA, ECDHE).
 - **TLS Session Established**: From now on, symmetric encryption (e.g., AES) is used for fast, secure communication.
-- Then actual**HTTP request starts**, but now inside encrypted TLS: 
-  🔒 GET /index.html HTTP/1.1 
-  Host: example.com
+- Then actual**HTTP request starts**, but now inside encrypted TLS:
+- 🔒 GET /index.html HTTP/1.1  Host: example.com
