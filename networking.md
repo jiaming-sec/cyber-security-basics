@@ -243,7 +243,12 @@ UDP (User Datagram Protocol) is a lightweight, connectionless protocol used for 
 
 
 ## Root Stores
-
+A root store is a list of trusted Certificate Authorities (CAs) built into:
+- Browsers (Chrome, Firefox)
+- Operating systems (Windows, macOS, Linux)
+- Used to validate TLS/SSL certificates during HTTPS connections.
+  
+When visiting https://google.com, your browser checks if Google’s certificate is signed by a CA in the root store (like DigiCert or Let’s Encrypt).
 
 
 
