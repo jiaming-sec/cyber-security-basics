@@ -230,9 +230,10 @@ UDP (User Datagram Protocol) is a lightweight, connectionless protocol used for 
 - **Length**	Total length of the UDP header + data (in bytes)
 - **Checksum**	Optional error-checking value for integrity (can be 0 in IPv4, mandatory in IPv6)
 
-
-
-
+## Broadcast Domains
+- A broadcast domain is a part of the network where a **broadcast packet** is received by all devices
+- Devices in the same **VLAN or subnet** are usually in the same broadcast domain.
+- **Routers break broadcast domains**, while **switches** forward them.
 
 
 
