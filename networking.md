@@ -207,3 +207,14 @@ Used for network diagnostics (not data transfer).
 - Expected Size?
 
 ## HTTP Response Header
+- HTTP version
+- Status Codes:
+- 1xx: Informational Response
+- 2xx: Successful
+- 3xx: Redirection
+- 4xx: Client Error
+- 5xx: Server Error
+- Type of data in response
+- Type of encoding
+- Language
+- Charset
