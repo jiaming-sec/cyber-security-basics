@@ -220,3 +220,20 @@ Used for network diagnostics (not data transfer).
 - Type of encoding
 - Language
 - Charset
+
+##  UDP Header
+UDP (User Datagram Protocol) is a lightweight, connectionless protocol used for speed-sensitive applications like video, VoIP, and DNS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
