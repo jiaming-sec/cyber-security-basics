@@ -180,4 +180,4 @@ Used for network diagnostics (not data transfer).
 
 ## Mail Protocols
 - SMTP(Simple Mail Transfer Protocol)(25, 587) Sends mail.  port 587 (for encrypted email transmissions using SMTPS).
-- 
+- IMAP (Internet Message Access Protocol)(143, 993) allows email clients to access messages on a mail server. 993 is the secure port of IMAP.
