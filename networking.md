@@ -190,3 +190,5 @@ Used for network diagnostics (not data transfer).
 - Dynamic (leases IP address, not persistent).
 - Automatic (leases IP address and remembers MAC and IP pairing in a table).
 - Manual (static IP set by administrator).
+
+## HTTP Header
