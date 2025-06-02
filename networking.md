@@ -235,7 +235,10 @@ UDP (User Datagram Protocol) is a lightweight, connectionless protocol used for 
 - Devices in the same **VLAN or subnet** are usually in the same broadcast domain.
 - **Routers break broadcast domains**, while **switches** forward them.
 
-
+## Collision Domains
+- A collision domain is an area where **network packets can collide** when being sent on the same network segment.
+- Common in **hubs** or old half-duplex networks.
+- **Switches eliminate collisions** by creating separate domains per port.
 
 
 
