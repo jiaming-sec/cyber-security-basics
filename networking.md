@@ -177,3 +177,7 @@ TLS Handshake Overview (before HTTP starts)
 Used for network diagnostics (not data transfer).
 - **Ping**: Checks host availability.
 - **Traceroute**: Maps the path packets take.
+
+## Mail Protocols
+- SMTP(Simple Mail Transfer Protocol)(25, 587) Sends mail.  port 587 (for encrypted email transmissions using SMTPS).
+- 
