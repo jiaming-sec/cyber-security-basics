@@ -254,3 +254,10 @@ When visiting https://google.com, your browser checks if Google’s certificate 
 CAM = Content Addressable Memory
 Switches use a CAM table to store:
 - MAC address ↔ Port mappings
+What Happens in Normal Use:
+- Device A sends traffic → switch learns MAC_A is on Port 1.
+
+Attack: CAM Table Overflow
+- Attacker floods switch with fake MAC addresses.
+- CAM table overflows → switch starts flooding traffic to all ports, like a hub.
+- Result: Attacker can sniff traffic not meant for them (Man-in-the-Middle).
