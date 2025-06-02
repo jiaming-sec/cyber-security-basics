@@ -193,12 +193,14 @@ Used for network diagnostics (not data transfer).
 
 ## HTTP Header
 - | Verb | Path | HTTP version |
-- Domain
-- Accept
-- Accept-language
-- Accept-charset
-- Accept-encoding(compression type)
-- Connection- close or keep-alive
-- Referrer
+- **GET** /home HTTP/1.1  Request method, path, and HTTP version
+- **Domain** Domain you're requesting
+- **Accept** Types of data client can handle (text/html, application/json)
+- **Accept-language** Preferred languages (en-US, zh-CN, etc.)
+- **Accept-charset**
+- **Accept-encoding**(compression type)
+- **Connection**- close or keep-alive
+- **Referrer**
 - Return address
 - Expected Size?
+
