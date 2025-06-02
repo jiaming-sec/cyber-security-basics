@@ -239,9 +239,10 @@ UDP (User Datagram Protocol) is a lightweight, connectionless protocol used for 
 - A collision domain is an area where **network packets can collide** when being sent on the same network segment.
 - Common in **hubs** or old half-duplex networks.
 - **Switches eliminate collisions** by creating separate domains per port.
+![image](https://github.com/user-attachments/assets/c2c680e8-6168-4adb-97de-41c190ec38b0)
 
 
-
+## Root Stores
 
 
 
