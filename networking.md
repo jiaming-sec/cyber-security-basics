@@ -192,3 +192,13 @@ Used for network diagnostics (not data transfer).
 - Manual (static IP set by administrator).
 
 ## HTTP Header
+- | Verb | Path | HTTP version |
+- Domain
+- Accept
+- Accept-language
+- Accept-charset
+- Accept-encoding(compression type)
+- Connection- close or keep-alive
+- Referrer
+- Return address
+- Expected Size?
