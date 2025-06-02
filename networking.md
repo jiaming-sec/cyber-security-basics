@@ -192,6 +192,8 @@ Used for network diagnostics (not data transfer).
 - Manual (static IP set by administrator).
 
 ## HTTP Header
+![image](https://github.com/user-attachments/assets/2e9353e4-320a-473c-81cd-e2c2878bacc3)
+
 - | Verb | Path | HTTP version |
 - **GET** /home HTTP/1.1  Request method, path, and HTTP version
 - **Domain** Domain you're requesting
@@ -204,3 +206,4 @@ Used for network diagnostics (not data transfer).
 - Return address
 - Expected Size?
 
+## HTTP Response Header
