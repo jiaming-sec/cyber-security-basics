@@ -223,7 +223,12 @@ Used for network diagnostics (not data transfer).
 
 ##  UDP Header
 UDP (User Datagram Protocol) is a lightweight, connectionless protocol used for speed-sensitive applications like video, VoIP, and DNS.
+![image](https://github.com/user-attachments/assets/2e32f0aa-2568-4b07-afaa-6f5127190fb9)
 
+- **Source Port**	The port number on the sender's side (e.g., 54321)
+- **Destination Port**	The receiving port on the server/client (e.g., 53 for DNS)
+- **Length**	Total length of the UDP header + data (in bytes)
+- **Checksum**	Optional error-checking value for integrity (can be 0 in IPv4, mandatory in IPv6)
 
 
 
