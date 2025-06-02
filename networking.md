@@ -172,3 +172,8 @@ TLS Handshake Overview (before HTTP starts)
 - **TLS Session Established**: From now on, symmetric encryption (e.g., AES) is used for fast, secure communication.
 - Then actual**HTTP request starts**, but now inside encrypted TLS:
 - 🔒 GET /index.html HTTP/1.1  Host: example.com
+
+## ICMP (Internet Control Message Protocol)
+Used for network diagnostics (not data transfer).
+- **Ping**: Checks host availability.
+- **Traceroute**: Maps the path packets take.
