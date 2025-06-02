@@ -183,4 +183,4 @@ Used for network diagnostics (not data transfer).
 - IMAP (Internet Message Access Protocol)(143, 993) allows email clients to access messages on a mail server. 993 is the secure port of IMAP.
 - POP3 ((Post Office Protocol version 3)(110, 995) Downloads and removes mail from server.
 
-## SSH (Port 22)
+## SSH (Secure Shell Protocol)(Port 22)
