@@ -162,8 +162,8 @@ a critical routing protocol that facilitates communication between different net
 
 ## HTTP/S
 HTTP = HyperText Transfer Protocol — it's the foundation of web communication. (Port 80)
-
 HTTPS = HTTP over SSL/TLS → adds encryption, authentication, and integrity. (Port 443)
+
 TLS Handshake Overview (before HTTP starts)
 - **Client Hello**:Browser says “Hi” and lists supported encryption methods + sends random data.
 - **Server Hello**:Server replies with chosen encryption method + its SSL/TLS certificate.
