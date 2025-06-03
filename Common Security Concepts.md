@@ -93,7 +93,8 @@
 - Cloud provider secures infrastructure; you secure your apps/data.
 ## IAM (Identity & Access Management)
 - Manages user identities and what they can access.
-## CSPM
+## CSPM (Cloud Security Posture Management)
+- 
 ## CASB
 ## CWPP
 ## Cryptography
