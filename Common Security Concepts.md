@@ -55,7 +55,8 @@
 - 10 most common and critical web app security risks (e.g., XSS, Injection).
 ## XSS (Cross-Site Scripting)
 - Injecting malicious scripts into websites to run in users’ browsers.
-## Injection Attack
+## Injection Attack (e.g., SQLi)
+- Sending malicious code (like SQL) through input fields to manipulate databases.
 ## CSRF
 ## SSRF
 ## HTTP Header Smuggling
