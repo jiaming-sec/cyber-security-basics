@@ -21,6 +21,11 @@
 ## SSO (Single Sign-On)
 - Login once, access many systems (e.g., Google account to access Gmail, Drive, YouTube).
 ## OIDC and SAML
+**(OpenID Connect)**
+- Built on OAuth 2.0, adds authentication (identity info) for logging in.
+
+**SAML (Security Assertion Markup Language)**
+- 
 ## Malware
 ## Virus
 ## Ransomware
