@@ -33,6 +33,8 @@
 ## Ransomware
 - Malware that encrypts your files and demands payment to unlock them.
 ## Spam and Phishing
+- Spam: Unsolicited messages (usually ads).
+- Phishing: Fake messages pretending to be legit to steal data.
 ## Social Engineering
 ## Password Attacks
 ## Threats
