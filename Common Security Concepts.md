@@ -79,6 +79,7 @@
 ## Firewall
 - Filters network traffic based on rules (blocks bad IPs, ports, protocols).
 ## DoS and DDoS
+- Overwhelms a server to make it unavailable. DDoS uses multiple sources (botnet).
 ## Ping Flood
 ## Cache Poisoning
 
