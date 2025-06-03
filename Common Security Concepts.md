@@ -3,6 +3,9 @@
 ---
 
 ## CIA Triads
+- Confidentiality: Keep data private (e.g., encryption).
+- Integrity: Ensure data isn't tampered with (e.g., checksums).
+- Availability: Make sure systems are up and accessible (e.g., redundant systems).
 ## AuthN and AuthZ
 ## MFA
 ## 2FA
