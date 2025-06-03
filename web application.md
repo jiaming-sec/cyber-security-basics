@@ -1,4 +1,3 @@
-## The HTTP method tells the server what action the user wants to perform on the resource identified by the URL path. 
 ## Same origin policy
 Only accept requests from the same origin domain.
 ## CORS
@@ -23,11 +22,16 @@ DOM based /client-side XSS.
 ## SQLi
 Person-in-the-browser (flash / java applets) (malware).
 Validation / sanitisation of webforms.
+
+## The HTTP method tells the server what action the user wants to perform on the resource identified by the URL path. 
 ## POST
-Form data.
+Sends data to the server, usually to create or update something.
+- Form data.
+- Always validate and clean the input to avoid attacks like SQL injection or XSS.
 ## GET
-Queries.
-Visible from URL.
+Used to fetch data from the server without making any changes.
+- Queries.
+- Visible from URL.
 ## Directory traversal
 Find directories on the server you’re not meant to be able to see.
 There are tools that do this.
