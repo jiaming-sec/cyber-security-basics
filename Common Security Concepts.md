@@ -97,7 +97,8 @@
 - Tools that detect misconfigurations in cloud environments.
 ## CASB (Cloud Access Security Broker)
 - Enforces security policies between cloud service users and providers.
-## CWPP
+## CWPP (Cloud Workload Protection Platform)
+- Secures workloads (e.g., containers, VMs) running in cloud environments.
 ## Cryptography
 ## Encryption and Decryption
 ## Hashing
