@@ -20,8 +20,9 @@ Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Send
 - **What it is**: A public log of all TLS certificates issued by Certificate Authorities (CAs).
 - **Why**: Helps detect rogue or mistakenly issued certs.
 - **Tool example**: crt.sh lets you look up certificates for any domain.
-## HTTP Public Key Pinning
-(HPKP)
+## HTTP Public Key Pinning (HPKP)
+- **Goal**: Prevent fake certificates from being trusted.
+- **How**: A site would tell the browser: "Only trust certs signed by this public key."
 Deprecated by Google Chrome
 ## Cookies
 httponly - cannot be accessed by javascript.
