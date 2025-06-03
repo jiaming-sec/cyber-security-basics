@@ -62,6 +62,7 @@
 ## SSRF (Server-Side Request Forgery)
 - Attacker tricks a server into making requests to internal systems.
 ## HTTP Header Smuggling
+- Sending specially crafted headers to bypass security controls between servers.
 ## Session Fixation
 ## Application Security
 ## Network Security
