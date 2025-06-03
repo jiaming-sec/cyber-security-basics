@@ -29,7 +29,9 @@ Deprecated by Google Chrome
 httponly - cannot be accessed by javascript.
 ## CSRF (Cross-Site Request Forgery)
 - **What it is**: Tricks a user into making an unwanted request (e.g., transferring money).
-Cookies.
+- **Relies on**: Authenticated cookies automatically sent by the browser.
+- **Prevention:** Use CSRF tokens / Set SameSite on cookies / Use custom headers (e.g., X-CSRF-TOKEN).
+
 ## XSS
 Reflected XSS.
 Persistent XSS.
