@@ -7,7 +7,10 @@ Only accept requests from the same origin domain.
 ## CORS  (Cross-Origin Resource Sharing)
 Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Sends a preflight request with options set asking if the server approves, and if the server approves, then the actual request is sent (eg. should client send auth cookies).
 - Why it exists: SOP blocks cross-origin requests by default, but CORS provides a safe way to allow them.
-- 
+- Browser sends a preflight request (OPTIONS) to the server asking: "Hey, can I access this resource?"
+- Server responds with headers like Access-Control-Allow-Origin: https://example.com.
+- If allowed, browser proceeds with the actual request.
+- **Use case**: Frontend hosted on app.example.com wants to access an API on api.example.com.
 ## HSTS
 Policies, eg what websites use HTTPS.
 ## Cert transparency
