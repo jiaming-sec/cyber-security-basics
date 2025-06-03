@@ -12,7 +12,10 @@ Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Send
 - If allowed, browser proceeds with the actual request.
 - **Use case**: Frontend hosted on app.example.com wants to access an API on api.example.com.
 ## HSTS (HTTP Strict Transport Security)
-Policies, eg what websites use HTTPS.
+- **What it does**: Tells browsers to only interact with a site over HTTPS, never HTTP.
+- **Prevents:** SSL stripping attacks (downgrade attacks).
+- **Sent via**: Strict-Transport-Security response header.
+- **Example**: Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 ## Cert transparency
 Can verify certificates against public logs
 ## HTTP Public Key Pinning
