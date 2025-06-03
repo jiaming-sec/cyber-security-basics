@@ -18,7 +18,8 @@
 - A type of MFA using exactly two different factors.
 ## OAuth2.0
 - A secure authorization protocol: lets apps access your data without sharing your password (e.g., "Login with Google").
-## SSO
+## SSO (Single Sign-On)
+- Login once, access many systems (e.g., Google account to access Gmail, Drive, YouTube).
 ## OIDC and SAML
 ## Malware
 ## Virus
