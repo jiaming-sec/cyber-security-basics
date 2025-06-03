@@ -17,7 +17,9 @@ Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Send
 - **Sent via**: Strict-Transport-Security response header.
 - **Example**: Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 ## Cert transparency
-Can verify certificates against public logs
+- **What it is**: A public log of all TLS certificates issued by Certificate Authorities (CAs).
+- **Why**: Helps detect rogue or mistakenly issued certs.
+- **Tool example**: crt.sh lets you look up certificates for any domain.
 ## HTTP Public Key Pinning
 (HPKP)
 Deprecated by Google Chrome
