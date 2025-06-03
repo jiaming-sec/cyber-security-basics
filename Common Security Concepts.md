@@ -81,6 +81,7 @@
 ## DoS and DDoS
 - Overwhelms a server to make it unavailable. DDoS uses multiple sources (botnet).
 ## Ping Flood
+- A basic DoS using massive ICMP echo requests to flood a target.
 ## Cache Poisoning
 
 ## Cloud Security
