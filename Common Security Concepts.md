@@ -69,6 +69,7 @@
 ## Application Security
 - Securing software apps from threats (input validation, patching, secure coding).
 ## Network Security
+- Protecting data as it travels across networks (firewalls, IDS, VPN).
 ## How SSL/TLS works
 ## How DNS works
 ## TCP 3 way handshake
