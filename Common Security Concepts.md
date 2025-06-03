@@ -42,6 +42,7 @@
 ## Threats
 - Anything that could cause harm (e.g., hacker, natural disaster).
 ## Vulnerabilities
+- Weaknesses in a system (e.g., unpatched software).
 ## Exploits
 ## Risk
 
