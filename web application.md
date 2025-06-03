@@ -1,5 +1,9 @@
 ## Same origin policy
 Only accept requests from the same origin domain.
+-  A fundamental security mechanism in browsers that restricts how scripts from one origin can interact with content from another origin.
+-  **"Origin"** = scheme (http/https) + domain + port.
+-  **Example**: JavaScript running on https://example.com cannot access content (like cookies, DOM, or local storage) from https://evil.com.
+-  **Purpose**: Prevent cross-site attacks (e.g., stealing data from another site).
 ## CORS
 Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Sends a preflight request with options set asking if the server approves, and if the server approves, then the actual request is sent (eg. should client send auth cookies).
 ## HSTS
