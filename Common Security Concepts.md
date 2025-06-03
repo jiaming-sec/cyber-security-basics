@@ -57,7 +57,8 @@
 - Injecting malicious scripts into websites to run in users’ browsers.
 ## Injection Attack (e.g., SQLi)
 - Sending malicious code (like SQL) through input fields to manipulate databases.
-## CSRF
+## CSRF (Cross-Site Request Forgery)
+- Forcing users to perform unwanted actions when authenticated (e.g., changing email address without knowing).
 ## SSRF
 ## HTTP Header Smuggling
 ## Session Fixation
