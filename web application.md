@@ -27,8 +27,8 @@ Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Send
 Deprecated by Google Chrome
 ## Cookies
 httponly - cannot be accessed by javascript.
-## CSRF
-Cross-Site Request Forgery.
+## CSRF (Cross-Site Request Forgery)
+- **What it is**: Tricks a user into making an unwanted request (e.g., transferring money).
 Cookies.
 ## XSS
 Reflected XSS.
