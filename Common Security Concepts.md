@@ -52,6 +52,7 @@
 ---
 
 ## OWASP Top 10
+- 10 most common and critical web app security risks (e.g., XSS, Injection).
 ## XSS
 ## Injection Attack
 ## CSRF
