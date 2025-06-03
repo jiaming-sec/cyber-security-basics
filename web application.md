@@ -42,9 +42,10 @@ Web security vulnerability that allows attackers to inject malicious scripts int
 - **Prevention**:
 - Encode output (<%= escapeHTML(input) %>)
 - Use Content Security Policy (CSP)
-## SQLi
-Person-in-the-browser (flash / java applets) (malware).
-Validation / sanitisation of webforms.
+## SQLi (SQL Injection)
+- **What it is:** Injecting SQL commands into input fields to manipulate databases.
+- **Example**: ' OR 1=1 --
+- **Prevention:** Validation/sanitisation / Use parameterized queries
 
 ## The HTTP method tells the server what action the user wants to perform on the resource identified by the URL path. 
 ## POST
