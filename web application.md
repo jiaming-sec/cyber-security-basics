@@ -37,7 +37,11 @@ Web security vulnerability that allows attackers to inject malicious scripts int
 - Reflected XSS.
 - Persistent XSS.
 - DOM based /client-side XSS.
-<img scr=””> will often load content from other websites, making a cross-origin HTTP request.
+- **Example**: <img src=x onerror=alert(1)>
+- <img scr=””> will often load content from other websites, making a cross-origin HTTP request.
+- **Prevention**:
+- Encode output (<%= escapeHTML(input) %>)
+- Use Content Security Policy (CSP)
 ## SQLi
 Person-in-the-browser (flash / java applets) (malware).
 Validation / sanitisation of webforms.
