@@ -31,6 +31,7 @@
 ## Virus
 - Malicious code that spreads when you open infected files/programs.
 ## Ransomware
+- Malware that encrypts your files and demands payment to unlock them.
 ## Spam and Phishing
 ## Social Engineering
 ## Password Attacks
