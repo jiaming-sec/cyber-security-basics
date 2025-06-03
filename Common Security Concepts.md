@@ -14,7 +14,8 @@
 - Defines what you're allowed to do (e.g., read-only access vs admin).
 ## MFA (Multi-Factor Authentication)
 - Using two or more of: something you know (password), have (phone), or are (fingerprint).
-## 2FA
+## 2FA (Two-Factor Authentication)
+- A type of MFA using exactly two different factors.
 ## OAuth2.0
 ## SSO
 ## OIDC and SAML
