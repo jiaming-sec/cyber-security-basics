@@ -40,6 +40,7 @@
 ## Password Attacks
 - Cracking passwords via brute-force, dictionary attacks, or credential stuffing.
 ## Threats
+- Anything that could cause harm (e.g., hacker, natural disaster).
 ## Vulnerabilities
 ## Exploits
 ## Risk
