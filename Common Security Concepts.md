@@ -71,6 +71,7 @@
 ## Network Security
 - Protecting data as it travels across networks (firewalls, IDS, VPN).
 ## How SSL/TLS works
+- Encrypts data between browser ↔️ server using certificates (public/private keys).
 ## How DNS works
 ## TCP 3 way handshake
 ## Firewall
