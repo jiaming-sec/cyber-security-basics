@@ -36,6 +36,7 @@
 - Spam: Unsolicited messages (usually ads).
 - Phishing: Fake messages pretending to be legit to steal data.
 ## Social Engineering
+- Manipulating people into giving up confidential info (e.g., pretending to be IT support).
 ## Password Attacks
 ## Threats
 ## Vulnerabilities
