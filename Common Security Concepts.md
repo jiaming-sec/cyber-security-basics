@@ -67,6 +67,7 @@
 - Attacker sets a session ID and tricks the victim into using it, allowing hijack.
 
 ## Application Security
+- Securing software apps from threats (input validation, patching, secure coding).
 ## Network Security
 ## How SSL/TLS works
 ## How DNS works
