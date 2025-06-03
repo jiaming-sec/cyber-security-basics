@@ -27,6 +27,7 @@
 **SAML (Security Assertion Markup Language)**
 - XML-based standard for SSO used in enterprise apps.
 ## Malware
+- Malicious software (broad category): viruses, ransomware, spyware, etc.
 ## Virus
 ## Ransomware
 ## Spam and Phishing
