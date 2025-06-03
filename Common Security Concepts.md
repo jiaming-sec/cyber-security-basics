@@ -83,6 +83,7 @@
 ## Ping Flood
 - A basic DoS using massive ICMP echo requests to flood a target.
 ## Cache Poisoning
+- Inserting malicious data into a DNS cache so users are redirected to malicious sites.
 
 ## Cloud Security
 
