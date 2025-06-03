@@ -44,6 +44,7 @@
 ## Vulnerabilities
 - Weaknesses in a system (e.g., unpatched software).
 ## Exploits
+- The use of a vulnerability to launch an attack.
 ## Risk
 
 ## Web Security
