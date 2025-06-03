@@ -90,6 +90,7 @@
 ---
 
 ## Shared Responsibility
+- Cloud provider secures infrastructure; you secure your apps/data.
 ## IAM
 ## CSPM
 ## CASB
