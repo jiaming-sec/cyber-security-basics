@@ -29,6 +29,7 @@
 ## Malware
 - Malicious software (broad category): viruses, ransomware, spyware, etc.
 ## Virus
+- Malicious code that spreads when you open infected files/programs.
 ## Ransomware
 ## Spam and Phishing
 ## Social Engineering
