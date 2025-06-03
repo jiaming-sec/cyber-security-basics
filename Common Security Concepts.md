@@ -75,6 +75,7 @@
 ## How DNS works
 - Resolves human-readable domains (e.g., google.com) to IP addresses via DNS servers.
 ## TCP 3 way handshake
+- Connection setup: SYN ➝ SYN-ACK ➝ ACK between client and server.
 ## Firewall
 ## DoS and DDoS
 ## Ping Flood
