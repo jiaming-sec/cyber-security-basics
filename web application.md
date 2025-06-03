@@ -1,4 +1,4 @@
-## Same origin policy
+## Same origin policy (SOP)
 Only accept requests from the same origin domain.
 -  A fundamental security mechanism in browsers that restricts how scripts from one origin can interact with content from another origin.
 -  **"Origin"** = scheme (http/https) + domain + port.
