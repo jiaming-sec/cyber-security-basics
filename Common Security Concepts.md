@@ -9,6 +9,7 @@
 ## AuthN and AuthZ
 **AuthN (Authentication)**
 - Proves who you are (e.g., login with username + password).
+  
 **AuthZ (Authorization)**
 - Defines what you're allowed to do (e.g., read-only access vs admin).
 ## MFA
