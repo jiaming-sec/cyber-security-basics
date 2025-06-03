@@ -38,6 +38,7 @@
 ## Social Engineering
 - Manipulating people into giving up confidential info (e.g., pretending to be IT support).
 ## Password Attacks
+- Cracking passwords via brute-force, dictionary attacks, or credential stuffing.
 ## Threats
 ## Vulnerabilities
 ## Exploits
