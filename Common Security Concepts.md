@@ -46,7 +46,7 @@
 ## Exploits
 - The use of a vulnerability to launch an attack.
 ## Risk
-
+- The potential for damage when a threat uses a vulnerability.
 ## Web Security
 
 ---
