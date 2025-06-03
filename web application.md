@@ -23,6 +23,7 @@ Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Send
 ## HTTP Public Key Pinning (HPKP)
 - **Goal**: Prevent fake certificates from being trusted.
 - **How**: A site would tell the browser: "Only trust certs signed by this public key."
+- **Why Deprecated**: Misuse could brick a site if not handled correctly.
 Deprecated by Google Chrome
 ## Cookies
 httponly - cannot be accessed by javascript.
