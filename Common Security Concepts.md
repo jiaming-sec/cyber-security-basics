@@ -12,7 +12,8 @@
   
 **AuthZ (Authorization)**
 - Defines what you're allowed to do (e.g., read-only access vs admin).
-## MFA
+## MFA (Multi-Factor Authentication)
+- Using two or more of: something you know (password), have (phone), or are (fingerprint).
 ## 2FA
 ## OAuth2.0
 ## SSO
