@@ -25,7 +25,7 @@
 - Built on OAuth 2.0, adds authentication (identity info) for logging in.
 
 **SAML (Security Assertion Markup Language)**
-- 
+- XML-based standard for SSO used in enterprise apps.
 ## Malware
 ## Virus
 ## Ransomware
