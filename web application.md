@@ -1,3 +1,4 @@
+## The HTTP method tells the server what action the user wants to perform on the resource identified by the URL path. 
 ## Same origin policy
 Only accept requests from the same origin domain.
 ## CORS
