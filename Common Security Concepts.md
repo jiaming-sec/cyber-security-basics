@@ -64,6 +64,8 @@
 ## HTTP Header Smuggling
 - Sending specially crafted headers to bypass security controls between servers.
 ## Session Fixation
+- Attacker sets a session ID and tricks the victim into using it, allowing hijack.
+
 ## Application Security
 ## Network Security
 ## How SSL/TLS works
