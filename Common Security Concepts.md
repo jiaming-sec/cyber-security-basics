@@ -73,6 +73,7 @@
 ## How SSL/TLS works
 - Encrypts data between browser ↔️ server using certificates (public/private keys).
 ## How DNS works
+- Resolves human-readable domains (e.g., google.com) to IP addresses via DNS servers.
 ## TCP 3 way handshake
 ## Firewall
 ## DoS and DDoS
