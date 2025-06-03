@@ -91,7 +91,8 @@
 
 ## Shared Responsibility
 - Cloud provider secures infrastructure; you secure your apps/data.
-## IAM
+## IAM (Identity & Access Management)
+- Manages user identities and what they can access.
 ## CSPM
 ## CASB
 ## CWPP
