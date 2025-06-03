@@ -4,7 +4,7 @@ Only accept requests from the same origin domain.
 -  **"Origin"** = scheme (http/https) + domain + port.
 -  **Example**: JavaScript running on https://example.com cannot access content (like cookies, DOM, or local storage) from https://evil.com.
 -  **Purpose**: Prevent cross-site attacks (e.g., stealing data from another site).
-## CORS
+## CORS  (Cross-Origin Resource Sharing)
 Cross-Origin Resource Sharing. Can specify allowed origins in HTTP headers. Sends a preflight request with options set asking if the server approves, and if the server approves, then the actual request is sent (eg. should client send auth cookies).
 ## HSTS
 Policies, eg what websites use HTTPS.
