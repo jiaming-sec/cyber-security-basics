@@ -59,7 +59,8 @@
 - Sending malicious code (like SQL) through input fields to manipulate databases.
 ## CSRF (Cross-Site Request Forgery)
 - Forcing users to perform unwanted actions when authenticated (e.g., changing email address without knowing).
-## SSRF
+## SSRF (Server-Side Request Forgery)
+- Attacker tricks a server into making requests to internal systems.
 ## HTTP Header Smuggling
 ## Session Fixation
 ## Application Security
