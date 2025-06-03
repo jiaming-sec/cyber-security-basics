@@ -32,10 +32,11 @@ httponly - cannot be accessed by javascript.
 - **Relies on**: Authenticated cookies automatically sent by the browser.
 - **Prevention:** Use CSRF tokens / Set SameSite on cookies / Use custom headers (e.g., X-CSRF-TOKEN).
 
-## XSS
-Reflected XSS.
-Persistent XSS.
-DOM based /client-side XSS.
+## XSS (Cross-Site Scripting)
+Web security vulnerability that allows attackers to inject malicious scripts into legitimate websites or web applications
+- Reflected XSS.
+- Persistent XSS.
+- DOM based /client-side XSS.
 <img scr=””> will often load content from other websites, making a cross-origin HTTP request.
 ## SQLi
 Person-in-the-browser (flash / java applets) (malware).
