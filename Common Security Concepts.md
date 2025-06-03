@@ -94,7 +94,7 @@
 ## IAM (Identity & Access Management)
 - Manages user identities and what they can access.
 ## CSPM (Cloud Security Posture Management)
-- 
+- Tools that detect misconfigurations in cloud environments.
 ## CASB
 ## CWPP
 ## Cryptography
