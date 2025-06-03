@@ -77,6 +77,7 @@
 ## TCP 3 way handshake
 - Connection setup: SYN ➝ SYN-ACK ➝ ACK between client and server.
 ## Firewall
+- Filters network traffic based on rules (blocks bad IPs, ports, protocols).
 ## DoS and DDoS
 ## Ping Flood
 ## Cache Poisoning
