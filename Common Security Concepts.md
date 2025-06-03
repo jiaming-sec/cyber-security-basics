@@ -17,6 +17,7 @@
 ## 2FA (Two-Factor Authentication)
 - A type of MFA using exactly two different factors.
 ## OAuth2.0
+- A secure authorization protocol: lets apps access your data without sharing your password (e.g., "Login with Google").
 ## SSO
 ## OIDC and SAML
 ## Malware
