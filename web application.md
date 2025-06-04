@@ -33,7 +33,8 @@ httponly - cannot be accessed by javascript.
 - **Prevention:** Use CSRF tokens / Set SameSite on cookies / Use custom headers (e.g., X-CSRF-TOKEN).
 
 ## XSS (Cross-Site Scripting)
-Web security vulnerability that allows attackers to inject malicious scripts into legitimate websites or web applications
+Web security vulnerability that allows attackers to inject malicious scripts (usually JavaScript) into legitimate websites or web applications.
+The malicious code runs in the context of the victim’s browser, not the attacker’s.
 - Reflected XSS.
 - Persistent XSS.
 - DOM based /client-side XSS.
