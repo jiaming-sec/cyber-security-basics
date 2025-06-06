@@ -68,6 +68,7 @@ Get info about Chrome extensions.
 ## User agents
 Is this a legitimate browser? Or a botnet?
 ## Browser extension take-overs
+Malicious actors can hijack or replace browser extensions to perform:
 Miners, cred stealers, adware.
 ## Local file inclusion
 ## Remote file inclusion (not as common these days)
