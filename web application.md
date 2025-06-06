@@ -76,4 +76,5 @@ Miners, cred stealers, adware.
 Server Side Request Forgery.
 ## Web vuln scanners.
 ## SQLmap.
+- A powerful automated tool for SQL injection testing.
 ## Malicious redirects.
