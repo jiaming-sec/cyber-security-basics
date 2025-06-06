@@ -75,6 +75,7 @@ Miners, cred stealers, adware.
 ## SSRF
 Server Side Request Forgery.
 ## Web vuln scanners.
+- Tools that automatically scan web apps for known issues.
 ## SQLmap.
 - A powerful automated tool for SQL injection testing.
 ## Malicious redirects.
