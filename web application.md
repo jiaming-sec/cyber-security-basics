@@ -82,4 +82,6 @@ Server Side Request Forgery.
 - Goal: Find misconfigs, outdated software, common vulns.
 ## SQLmap.
 - A powerful automated tool for SQL injection testing.
+- sqlmap -u "http://target.com/item?id=1" --dump
+- Goal: Extract DB info, bypass login, or gain admin access.
 ## Malicious redirects.
