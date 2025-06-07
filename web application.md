@@ -71,6 +71,9 @@ Is this a legitimate browser? Or a botnet?
 Malicious actors can hijack or replace browser extensions to perform:
 Miners, cred stealers, adware.
 ## Local file inclusion
+-  Load local server files via vulnerable parameters.
+-  Example: GET /index.php?page=../../../../etc/passwd
+-  Goal: Read files or gain RCE (if logs or uploads are included).
 ## Remote file inclusion (not as common these days)
 ## SSRF (Server-Side Request Forgery)
 - Trick a server into making requests to internal systems.
