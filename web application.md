@@ -76,6 +76,10 @@ Miners, cred stealers, adware.
 Server Side Request Forgery.
 ## Web vuln scanners.
 - Tools that automatically scan web apps for known issues.
+- OWASP ZAP – free, beginner-friendly
+- Nikto – old-school server scanner
+- Nuclei – fast, templated scanner
+- Goal: Find misconfigs, outdated software, common vulns.
 ## SQLmap.
 - A powerful automated tool for SQL injection testing.
 ## Malicious redirects.
