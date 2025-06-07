@@ -72,8 +72,10 @@ Malicious actors can hijack or replace browser extensions to perform:
 Miners, cred stealers, adware.
 ## Local file inclusion
 ## Remote file inclusion (not as common these days)
-## SSRF
-Server Side Request Forgery.
+## SSRF (Server-Side Request Forgery)
+- Trick a server into making requests to internal systems.
+- Example: GET /fetch?url=http://169.254.169.254/latest/meta-data/
+- Goal: Access internal resources or cloud metadata.
 ## Web vuln scanners.
 - Tools that automatically scan web apps for known issues.
 - OWASP ZAP – free, beginner-friendly
