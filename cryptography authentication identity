@@ -7,3 +7,8 @@
 - AES (symmetrical).
 - ECC (namely ed25519) (asymmetric).
 - Chacha/Salsa (symmetric).
+
+## Asymmetric vs symmetric
+- Asymmetric is slow, but good for establishing a trusted connection.
+- Symmetric has a shared key and is faster. Protocols often use asymmetric to transfer symmetric key.
+- Perfect forward secrecy - eg Signal uses this.
