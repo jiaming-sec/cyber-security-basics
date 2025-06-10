@@ -1,1 +1,3 @@
-
+## Encryption vs Encoding vs Hashing vs Obfuscation vs Signing
+- Be able to explain the differences between these things.
+- Various attack models (e.g. chosen-plaintext attack).
