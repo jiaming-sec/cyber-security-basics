@@ -22,3 +22,25 @@
 - Hashing functions e.g. MD5, Sha-1, BLAKE. Used for identifiers, very useful for fingerprinting malware samples.
 - Message Authentication Codes (MACs).
 - Keyed-hash MAC (HMAC).
+
+## Authentication
+
+- Certificates
+What info do certs contain, how are they signed?
+Look at DigiNotar.
+- Trusted Platform Module
+(TPM)
+Trusted storage for certs and auth data locally on device/host.
+- O-auth
+Bearer tokens, this can be stolen and used, just like cookies.
+- Auth Cookies
+Client side.
+- Sessions
+Server side.
+- Auth systems
+SAMLv2o.
+OpenID.
+Kerberos.
+Gold & silver tickets.
+Mimikatz.
+Pass-the-hash.
