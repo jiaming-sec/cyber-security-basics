@@ -18,3 +18,7 @@
 - Block cipher modes of operation.
 - AES-GCM.
 
+## Integrity and authenticity primitives
+- Hashing functions e.g. MD5, Sha-1, BLAKE. Used for identifiers, very useful for fingerprinting malware samples.
+- Message Authentication Codes (MACs).
+- Keyed-hash MAC (HMAC).
