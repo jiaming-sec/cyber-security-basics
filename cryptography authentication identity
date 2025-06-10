@@ -12,3 +12,9 @@
 - Asymmetric is slow, but good for establishing a trusted connection.
 - Symmetric has a shared key and is faster. Protocols often use asymmetric to transfer symmetric key.
 - Perfect forward secrecy - eg Signal uses this.
+
+## Cyphers
+- Block vs stream ciphers.
+- Block cipher modes of operation.
+- AES-GCM.
+
