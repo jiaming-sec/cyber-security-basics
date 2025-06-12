@@ -1,5 +1,5 @@
-Patching
-Data Execution Prevention
+## Patching
+## Data Execution Prevention
 Address space layout randomisation
 To make it harder for buffer overruns to execute privileged instructions at known addresses in memory.
 Principle of least privilege
