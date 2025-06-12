@@ -10,7 +10,7 @@
 - Use of compilers that trap buffer overruns.
 ## Encryption
 - Of software and/or firmware components.
-Mandatory Access Controls
+## Mandatory Access Controls
 (MACs)
 Access Control Lists (ACLs)
 Operating systems with Mandatory Access Controls - eg. SELinux.
