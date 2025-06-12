@@ -11,9 +11,9 @@
 ## Encryption
 - Of software and/or firmware components.
 ## Mandatory Access Controls
-(MACs)
-Access Control Lists (ACLs)
-Operating systems with Mandatory Access Controls - eg. SELinux.
+- (MACs)
+- Access Control Lists (ACLs)
+- Operating systems with Mandatory Access Controls - eg. SELinux.
 "Insecure by exception"
 When to allow people to do certain things for their job, and how to improve everything else. Don't try to "fix" security, just improve it by 99%.
 Do not blame the user
