@@ -8,7 +8,7 @@
 - Requiring kernel mode code to be digitally signed.
 ## Compiler security features
 - Use of compilers that trap buffer overruns.
-Encryption
+## Encryption
 Of software and/or firmware components.
 Mandatory Access Controls
 (MACs)
