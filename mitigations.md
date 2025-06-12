@@ -14,7 +14,7 @@
 - (MACs)
 - Access Control Lists (ACLs)
 - Operating systems with Mandatory Access Controls - eg. SELinux.
-"Insecure by exception"
+## "Insecure by exception"
 When to allow people to do certain things for their job, and how to improve everything else. Don't try to "fix" security, just improve it by 99%.
 Do not blame the user
 Security is about protecting people, we should build technology that people can trust, not constantly blame users.
