@@ -7,7 +7,7 @@
 ## Code signing
 - Requiring kernel mode code to be digitally signed.
 ## Compiler security features
-Use of compilers that trap buffer overruns.
+- Use of compilers that trap buffer overruns.
 Encryption
 Of software and/or firmware components.
 Mandatory Access Controls
