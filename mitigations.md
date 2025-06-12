@@ -3,7 +3,7 @@
 ## Address space layout randomisation
 - To make it harder for buffer overruns to execute privileged instructions at known addresses in memory.
 ## Principle of least privilege
-Eg running Internet Explorer with the Administrator SID disabled in the process token. Reduces the ability of buffer overrun exploits to run as elevated user.
+- Eg running Internet Explorer with the Administrator SID disabled in the process token. Reduces the ability of buffer overrun exploits to run as elevated user.
 Code signing
 Requiring kernel mode code to be digitally signed.
 Compiler security features
