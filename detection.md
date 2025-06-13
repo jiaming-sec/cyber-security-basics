@@ -5,3 +5,7 @@
 
 ## SIEM
 - Security Information and Event Management.
+  
+## IOC
+- Indicator of compromise (often shared amongst orgs/groups).
+- Specific details (e.g. IP addresses, hashes, domains)
