@@ -12,3 +12,5 @@
 
 ## Things that create signals
 - Honeypots, snort
+
+## Things that triage signals
