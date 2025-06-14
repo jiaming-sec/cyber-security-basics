@@ -9,3 +9,6 @@
 ## IOC
 - Indicator of compromise (often shared amongst orgs/groups).
 - Specific details (e.g. IP addresses, hashes, domains)
+
+## Things that create signals
+- Honeypots, snort
