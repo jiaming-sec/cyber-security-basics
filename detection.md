@@ -15,3 +15,8 @@
 
 ## Things that triage signals
 - SIEM, eg splunk
+
+## Things that will alert a human
+- Automatic triage of collated logs, machine learning.
+- Notifications and analyst fatigue.
+- Systems that make it easy to decide if alert is actual hacks or not.
