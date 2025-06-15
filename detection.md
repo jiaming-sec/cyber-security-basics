@@ -38,3 +38,7 @@
 - Detecting port scanning (could look for TCP SYN packets with no following SYN ACK/ half connections).
 - Antivirus software notifications.
 - Large amounts of upload traffic.
+
+## Honey pots
+- Canary tokens.
+- Dummy internal service / web server, can check traffic, see what attacker tries.
