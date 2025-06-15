@@ -56,3 +56,12 @@
 - Traffic volume.
 - Traffic patterns.
 - Execution logs.
+
+## Detection related tools
+- Splunk.
+- Arcsight.
+- Qradar.
+- Darktrace.
+- Tcpdump.
+- Wireshark.
+- Zeek.
