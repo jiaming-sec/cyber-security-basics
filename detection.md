@@ -27,3 +27,8 @@
 - Strings in found in malware samples appearing in binaries installed on hosts (/Antivirus).
 - Network signatures
 - Eg checking DNS records for attempts to contact C2 (command and control) servers.
+
+## Anomaly / Behaviour based detection
+- IDS learns model of “normal” behaviour, then can detect things that deviate too far from normal - eg unusual urls being accessed, user specific- login times / usual work hours, normal files accessed.
+- Can also look for things that a hacker might specifically do (eg, HISTFILE commands, accessing /proc).
+- If someone is inside the network- If action could be suspicious, increase log verbosity for that user.
