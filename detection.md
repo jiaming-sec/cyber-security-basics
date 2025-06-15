@@ -48,3 +48,11 @@
 - Attacker can spoof packets that look like other types of attacks, deliberately create a lot of noise.
 - Attacker can spoof IP address sending packets, but can check TTL of packets and TTL of reverse lookup to find spoofed addresses.
 - Correlating IPs with physical location (is difficult and inaccurate often).
+
+## Logs to look at
+- DNS queries to suspicious domains.
+- HTTP headers could contain wonky information.
+- Metadata of files (eg. author of file) (more forensics?).
+- Traffic volume.
+- Traffic patterns.
+- Execution logs.
