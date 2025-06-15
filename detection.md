@@ -32,3 +32,9 @@
 - IDS learns model of “normal” behaviour, then can detect things that deviate too far from normal - eg unusual urls being accessed, user specific- login times / usual work hours, normal files accessed.
 - Can also look for things that a hacker might specifically do (eg, HISTFILE commands, accessing /proc).
 - If someone is inside the network- If action could be suspicious, increase log verbosity for that user.
+
+## Firewall rules
+- Brute force (trying to log in with a lot of failures).
+- Detecting port scanning (could look for TCP SYN packets with no following SYN ACK/ half connections).
+- Antivirus software notifications.
+- Large amounts of upload traffic.
