@@ -42,3 +42,9 @@
 ## Honey pots
 - Canary tokens.
 - Dummy internal service / web server, can check traffic, see what attacker tries.
+
+## Things to know about attackers
+- Slow attacks are harder to detect.
+- Attacker can spoof packets that look like other types of attacks, deliberately create a lot of noise.
+- Attacker can spoof IP address sending packets, but can check TTL of packets and TTL of reverse lookup to find spoofed addresses.
+- Correlating IPs with physical location (is difficult and inaccurate often).
