@@ -14,3 +14,14 @@
 - plaso / log2timeline
 - FTK imager
 - encase
+
+## Memory forensics
+- Memory acquisition (footprint, smear, hiberfiles)
+- Virtual vs physical memory
+- Life of an executable
+- Memory structures
+- Kernel space vs user space
+- Tools
+- Volatility
+- Google Rapid Response (GRR) / Rekall
+- WinDbg
