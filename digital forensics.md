@@ -27,3 +27,4 @@
 - WinDbg
   
 ## Mobile forensics
+- Jailbreaking devices, implications
