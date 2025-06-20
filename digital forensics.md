@@ -33,3 +33,4 @@
 
 ## Anti forensics
 - How does malware try to hide?
+- Timestomping
