@@ -32,3 +32,4 @@
 - Android vs. iPhone
 
 ## Anti forensics
+- How does malware try to hide?
