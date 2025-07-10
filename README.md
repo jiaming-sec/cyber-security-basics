@@ -6,3 +6,5 @@ security log review
 splunk es
 application security
  cloud security 
+
+AWS
