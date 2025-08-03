@@ -11,5 +11,5 @@ AWS
 sans sec488
 Azure
 
-firewalls, 
+## firewalls, 
 ## intrusion prevention systems, SIEM tools, vulnerability analysis systems, file integrity monitoring tools, data loss prevention, network access control, logging and correlation platforms and endpoint protection systems.
