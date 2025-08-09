@@ -17,5 +17,5 @@ Azure
 ## file integrity monitoring tools
 ## data loss prevention, 
 ## network access control, 
-## logging and correlation platforms and endpoint protection systems.
+## l ogging and correlation platforms and endpoint protection systems.
 
